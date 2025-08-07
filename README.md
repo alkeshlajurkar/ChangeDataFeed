@@ -50,12 +50,13 @@ The implementation was carried out in a Databricks notebook, and the complete co
 - 🔄 Change Data Capture (CDC) for database replication  
 - 📊 Data lineage for understanding how data evolves over time
 
-## 🤝 Connect with Me
+## 🔗 Connect with Me 🤝
 Feel free to connect with me for collaborations or any questions related to full-stack development, data management, or personal finance:
 
-- LinkedIn: https://www.linkedin.com/in/alkeshlajurkar
-- 📧 Email: alkeshlajurkar@gmail.com  
+- **LinkedIn**: [alkeshlajurkar](https://www.linkedin.com/in/alkeshlajurkar)
+- **Email**: alkeshlajurkar@gmail.com
 
-## 💻 GitHub Repository
-Explore the complete source code of this project on GitHub:  
-🔗 https://github.com/alkeshlajurkar/CDAC_DBDA_Project/tree/main/DeltaLake_CDF
+💻 **GitHub Repository**  
+Explore the complete source code of this project on GitHub:
+
+[GitHub Repo Link](https://github.com/alkeshlajurkar/NYC-TaxiDataAnalysis.git)
