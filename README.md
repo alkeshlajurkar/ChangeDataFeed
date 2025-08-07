@@ -1,4 +1,4 @@
-# 🔄 Exploring Change Data Feed (CDF) in Delta Lake Using Databricks
+## 🔄 Exploring Change Data Feed (CDF) in Delta Lake Using Databricks
 
 ## 📌 Overview
 This project explores how to use **Change Data Feed (CDF)** — a feature in Delta Lake — to capture and query row-level changes (**INSERT**, **UPDATE**, **DELETE**) in a Delta table on **Databricks**. CDF enables you to access a complete trail of how your data has evolved over time, without requiring manual auditing or external tools.
