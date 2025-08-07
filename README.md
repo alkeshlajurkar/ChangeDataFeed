@@ -44,10 +44,16 @@ The implementation was carried out in a Databricks notebook, and the complete co
 - 💻 **Apache Spark** (SQL + PySpark)  
 - ☁️ **Cloud Storage** (optional)  
 
+## 💼 Real-World Applications
+- 🚀 Building incremental ETL pipelines  
+- 🛡️ Audit logs for compliance and security  
+- 🔄 Change Data Capture (CDC) for database replication  
+- 📊 Data lineage for understanding how data evolves over time
+
 ## 🤝 Connect with Me
 Feel free to connect with me for collaborations or any questions related to full-stack development, data management, or personal finance:
 
-- [LinkedIn: alkeshlajurkar](https://www.linkedin.com/in/alkeshlajurkar)  
+- LinkedIn: https://www.linkedin.com/in/alkeshlajurkar
 - 📧 Email: alkeshlajurkar@gmail.com  
 
 ## 💻 GitHub Repository
